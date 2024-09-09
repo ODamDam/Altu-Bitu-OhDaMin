@@ -1,0 +1,2 @@
+*.cpp text eol=lf
+*.cpp text working-tree-encoding=UTF-8
